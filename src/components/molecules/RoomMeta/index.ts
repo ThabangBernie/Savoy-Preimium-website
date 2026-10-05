@@ -1,0 +1,1 @@
+export { RoomMeta } from './RoomMeta'
